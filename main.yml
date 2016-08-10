@@ -1,0 +1,12 @@
+---
+
+- hosts: all
+  become: yes
+  gather_facts: yes
+  vars_files:
+    - vhosts.yml
+
+  roles:
+    - vhosts
+
+

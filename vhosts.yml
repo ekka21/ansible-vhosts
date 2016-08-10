@@ -1,0 +1,11 @@
+---
+
+vhosts:
+
+    - url: local.swRqN.hitgo.io
+      path: /var/www/domains/swRqN
+      web_root: public
+
+    - url: local.8pBVa.hitgo.io
+      path: /var/www/domains/8pBVa
+      web_root: public      
