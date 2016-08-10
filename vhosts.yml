@@ -8,4 +8,4 @@ vhosts:
 
     - url: local.8pBVa.hitgo.io
       path: /var/www/domains/8pBVa
-      web_root: public      
+      web_root: public
